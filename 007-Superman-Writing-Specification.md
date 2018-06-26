@@ -10,9 +10,9 @@ I strongly suggest you all write essays on **steemit.com**. Because the blockcha
 
 ## 1.2 How often do we write?
 
-After the temporary running of 007-Superman, we have found that the English levels of us are different. So the members should be splited into two categories: one is the senior membership, and another is normal membership.
+After the temporary running of 007-Superman, we have found that the English levels of us are different. So the members should be splited into two categories: one is the senior membership, and another is the normal membership.
 
-- Senior members have to deliver one aricle per week.
+- **Senior members** have to deliver one aricle per week.
 - Normal members should commit one article per 2 weeks.
 
 ## 1.3 When do we commit writings
