@@ -16,11 +16,11 @@
 
 | Name | Steemit account | committing essays |
 | -- | -- | -- |
-| Lucien | None | [Android ProGuard](https://www.jianshu.com/p/dc0434ff8217)  |
+| Lucien | lucienz | [Android ProGuard](https://www.jianshu.com/p/dc0434ff8217)  |
 | Alexander | mohism | [My opinion about the most important battles in Chinese history](https://steemit.com/history/@mohism/my-opinion-about-the-most-important-battles-in-chinese-history) |
 | Rosy | None | None |
 | Aosuoka| None | None |
 | KingKong Lady | None | None |
 | Jenny Yu | None | None |
 | Aunus | None | None |
-| Gee Lam | None | None |
+| Gee Lam | None | [浅谈产品-简书（双语）](https://www.jianshu.com/p/6084e31060ac) |
