@@ -13,7 +13,6 @@
 
 # After June 21th
 
-
 | Name | Steemit account | committing essays |
 | -- | -- | -- |
 | Lucien | lucienz | [Android ProGuard](https://www.jianshu.com/p/dc0434ff8217)  |
@@ -24,3 +23,16 @@
 | Jenny Yu | None | None |
 | Aunus | None | None |
 | Gee Lam | None | [浅谈产品-简书（双语）](https://www.jianshu.com/p/6084e31060ac) |
+
+# After June 28th
+
+| Name | Steemit account | committing essays |
+| -- | -- | -- |
+| Lucien | lucienz | [Reading the whole book in a week](https://www.jianshu.com/p/eab4f0870b12)  |
+| Alexander | mohism |[Using Feynman technique to write](https://www.jianshu.com/p/34a26b9acea4) |
+| Rosy | None | None |
+| Aosuoka| None | None |
+| KingKong Lady | None | None |
+| Jenny Yu | None | None |
+| Aunus | None | None |
+| Gee Lam | None | None |
