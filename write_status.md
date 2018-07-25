@@ -37,7 +37,7 @@
 | Aunus | None | None |
 | Gee Lam | None | None |
 
- After July 7th
+ # After July 7th
 
 | Name | Steemit account | committing essays |
 | -- | -- | -- |
@@ -50,7 +50,7 @@
 | Aunus | None | None |
 | Gee Lam | None | None |
 
-After July 14th
+# After July 14th
 
 | Name | Steemit account | committing essays |
 | -- | -- | -- |
