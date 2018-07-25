@@ -36,3 +36,29 @@
 | Jenny Yu | None | None |
 | Aunus | None | None |
 | Gee Lam | None | None |
+
+ After July 7th
+
+| Name | Steemit account | committing essays |
+| -- | -- | -- |
+| Lucien | lucienz | None |
+| Alexander | mohism |[To be an assassin](https://www.jianshu.com/p/6f7bd9c68524) |
+| Rosy | None | None |
+| Aosuoka| None | None |
+| KingKong Lady | None | None |
+| Jenny Yu | None | None |
+| Aunus | None | None |
+| Gee Lam | None | None |
+
+After July 14th
+
+| Name | Steemit account | committing essays |
+| -- | -- | -- |
+| Lucien | lucienz | None |
+| Alexander | mohism |[How to build Firefox on Windows](http://alexander.mohism.org/blog/2017/08/14/build-firefox-for-Windows.html) |
+| Rosy | None | None |
+| Aosuoka| None | None |
+| KingKong Lady | None | None |
+| Jenny Yu | None | None |
+| Aunus | None | [Recognize and Record](https://www.jianshu.com/p/111eeec7814d) |
+| Gee Lam | None | [昨天我有一个好主题](https://www.jianshu.com/p/8670882b819a) |
