@@ -68,13 +68,13 @@
 | Name | Steemit account | committing essays |
 | -- | -- | -- |
 | Lucien | lucienz | [What my father taught me](https://www.jianshu.com/p/73d040e083c6) |
-| Alexander | mohism |[How to build Firefox on Windows](http://alexander.mohism.org/blog/2017/08/14/build-firefox-for-Windows.html) |
+| Alexander | mohism | None |
 | Rosy | None | None |
 | Aosuoka| None | None |
 | KingKong Lady | None | None |
 | Jenny Yu | None | None |
-| Aunus | None | [Recognize and Record](https://www.jianshu.com/p/111eeec7814d) |
-| Gee Lam | None | [昨天我有一个好主题](https://www.jianshu.com/p/8670882b819a) |
+| Aunus | None | None |
+| Gee Lam | None | None |
 
 # After July 28th
 
