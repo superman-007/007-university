@@ -62,3 +62,31 @@
 | Jenny Yu | None | None |
 | Aunus | None | [Recognize and Record](https://www.jianshu.com/p/111eeec7814d) |
 | Gee Lam | None | [昨天我有一个好主题](https://www.jianshu.com/p/8670882b819a) |
+
+# After July 21th
+
+| Name | Steemit account | committing essays |
+| -- | -- | -- |
+| Lucien | lucienz | [What my father taught me](https://www.jianshu.com/p/73d040e083c6) |
+| Alexander | mohism |[How to build Firefox on Windows](http://alexander.mohism.org/blog/2017/08/14/build-firefox-for-Windows.html) |
+| Rosy | None | None |
+| Aosuoka| None | None |
+| KingKong Lady | None | None |
+| Jenny Yu | None | None |
+| Aunus | None | [Recognize and Record](https://www.jianshu.com/p/111eeec7814d) |
+| Gee Lam | None | [昨天我有一个好主题](https://www.jianshu.com/p/8670882b819a) |
+
+# After July 28th
+
+| Name | Steemit account | committing essays |
+| -- | -- | -- |
+| Lucien | lucienz | [Summary for the week 2018-7-28](https://www.jianshu.com/p/08c67a90e74f) |
+| | | [How to improve English by Reading](https://www.jianshu.com/p/7aef93c787c9) |
+| Alexander | mohism |[Reading Note 1 for《Principles》](https://www.jianshu.com/p/136460d41b2c) |
+| | | [Reading Note 2 for《Principles》](https://www.jianshu.com/p/07b3e0d69061) |
+| Rosy | None | None |
+| Aosuoka| None | None |
+| KingKong Lady | None | None |
+| Jenny Yu | None | None |
+| Aunus | None | None |
+| Gee Lam | None | None |
